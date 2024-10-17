@@ -15,9 +15,7 @@ I'm a Computer Science graduate and a passionate iOS Developer. I love building 
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Alif-bot)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/alif7//)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Alif-bot)](https://github.com/ryo-ma/github-profile-trophy)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/inin/alif7/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alif-bot)](https://github.com/anuraghazra/github-readme-stats)
 
