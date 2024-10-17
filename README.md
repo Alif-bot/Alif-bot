@@ -7,9 +7,9 @@
 - 💬 Ask me about iOS Development
 - 📫 How to reach me: infoalif7@gmail.com
 - ⚡ Fun fact: ;)
-### Hi there 👋, My name is Alif
 
-##About Me
+
+###About Me
 👋 I'm a Computer Science graduate and a passionate Software Engineer specializing in iOS development. I love building mobile apps.
 
 
