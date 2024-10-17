@@ -9,8 +9,8 @@
 - ⚡ Fun fact: ;)
 
 
-###About Me
-👋 I'm a Computer Science graduate and a passionate Software Engineer specializing in iOS development. I love building mobile apps.
+### About Me 
+I'm a Computer Science graduate and a passionate iOS Developer. I love building mobile apps.
 
 
 
