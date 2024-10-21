@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on ZeyTech
+- 🔭 I’m currently working as an iOS Developer on ZeyTech
 - 🌱 I’m currently learning iOS development
 - 💬 Ask me about iOS Development
 - 📫 How to reach me: infoalif7@gmail.com
